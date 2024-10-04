@@ -1,4 +1,4 @@
-![MasterHead](https://pbs.twimg.com/card_img/1840111019290484736/UEZAoyh-?format=jpg&name=4096x4096)
+![MasterHead](https://raw.githubusercontent.com/nicolo-mn/OOP22-flower-force/main/screenshots/plantvszombies.jpeg)
 
 <h1 align="center">🪴FlowerForce🌻</h1>
 
