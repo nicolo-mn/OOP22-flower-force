@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/nicolo-mn/OOP22-flower-force/main/screenshots/plantvszombies.jpeg)
+<img src="https://raw.githubusercontent.com/nicolo-mn/OOP22-flower-force/main/screenshots/plantsvszombies.jpeg"/>
 
 <h1 align="center">🪴FlowerForce🌻</h1>
 
